@@ -19,10 +19,10 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **Next.js** and diving deeper into the React ecosystem
-- 💻 Full-stack developer who enjoys turning ideas into clean, responsive web apps
-- 🧩 Regular problem solver on **LeetCode** — sharpening my DSA skills with C++
-- 🎨 I care about good UI/UX and love prototyping in **Figma**
+- 💻 Full-stack developer passionate about building web applications which solve real-world problem.
+- 🧠  Practicing Data Structures & Algorithms with C++ on LeetCode.
+- 🛠️ Enjoy working with modern web technologies and solving real-world problems.
+- 🚀 Always eager to learn new technologies and build meaningful projects.
 - 📫 Reach me at **[shahinrayhan92@gmail.com](mailto:shahinrayhan92@gmail.com)**
 
 ---
