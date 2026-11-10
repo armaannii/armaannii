@@ -60,9 +60,9 @@
 
 | Project | Description | Tech |
 | :-- | :-- | :-- |
-| [**Project One**](https://github.com/armaannii/project-one) | Short description of what it does and why it's cool | `Next.js` `TypeScript` `Tailwind` |
-| [**Project Two**](https://github.com/armaannii/project-two) | Short description of what it does and why it's cool | `React` `JavaScript` |
-| [**Project Three**](https://github.com/armaannii/project-three) | Short description of what it does and why it's cool | `C++` |
+| [**বাজার দর**](https://github.com/armaannii/Bazar-Dor) | বাজার দর (BazarDor) is a market price tracking platform that helps users explore daily commodity prices, compare price changes, and make informed purchasing decisions in Bangladesh. | `Next.js` `TypeScript` `Tailwind` `Better Auth` `REST API` |
+| [**Fit Log**](https://github.com/armaannii/Fit_Log) |  FitLog is a workout library for exploring exercises, managing training plans, and saving workouts for later.  | `Next.js` `TypeScript` `Tailwind` |
+| [**SkillPath AI**](https://github.com/armaannii/HACKTOBERFEST) | SkillPath AI analyzes academic profiles to identify skill gaps and generate personalized career roadmaps, learning resources, and AI-powered career preparation tools. | `Next.js` `TypeScript` `Tailwind` |
 
 ---
 
