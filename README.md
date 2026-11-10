@@ -6,7 +6,7 @@
 <!-- ============ TYPING INTRO ============ -->
 <p align="center">
   <a href="https://github.com/armaannii">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Passionate+Full-Stack+Developer;Building+modern+web+apps+with+React+%26+Next.js;Currently+leveling+up+my+Next.js+skills+%F0%9F%9A%80;Always+learning%2C+always+shipping" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Passionate+Full-Stack+Developer;Building+modern+web+apps;Currently+leveling+up+my+full+stack+skills+%F0%9F%9A%80;Always+learning%2C+always+shipping" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,9 +20,9 @@
 ## 👨‍💻 About Me
 
 - 💻 Full-stack developer passionate about building web applications which solve real-world problem.
-- 🧠  Practicing Data Structures & Algorithms with C++ on LeetCode.
 - 🛠️ Enjoy working with modern web technologies and solving real-world problems.
 - 🚀 Always eager to learn new technologies and build meaningful projects.
+- 🧠  Practicing Data Structures & Algorithms with C++ on LeetCode.
 - 📫 Reach me at **[shahinrayhan92@gmail.com](mailto:shahinrayhan92@gmail.com)**
 
 ---
@@ -63,15 +63,6 @@
 | [**বাজার দর**](https://github.com/armaannii/Bazar-Dor) | বাজার দর (BazarDor) is a market price tracking platform that helps users explore daily commodity prices, compare price changes, and make informed purchasing decisions in Bangladesh. | `Next.js` `TypeScript` `Tailwind` `Better Auth` `REST API` |
 | [**Fit Log**](https://github.com/armaannii/Fit_Log) |  FitLog is a workout library for exploring exercises, managing training plans, and saving workouts for later.  | `Next.js` `TypeScript` `Tailwind` |
 | [**SkillPath AI**](https://github.com/armaannii/HACKTOBERFEST) | SkillPath AI analyzes academic profiles to identify skill gaps and generate personalized career roadmaps, learning resources, and AI-powered career preparation tools. | `Next.js` `TypeScript` `Tailwind` |
-
----
-
-## 🎯 Currently Working On
-
-- [x] Building a strong foundation in React
-- [ ] Mastering **Next.js** (App Router, Server Components, API routes)
-- [ ] Improving TypeScript skills
-- [ ] Solving more LeetCode problems consistently
 
 ---
 
