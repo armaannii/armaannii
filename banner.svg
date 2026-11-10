@@ -34,7 +34,7 @@
 
   <g class="fade">
     <text class="title" x="70" y="125">Hi, I'm Arman</text>
-    <text class="sub" x="70" y="175">Full-Stack Developer  |  React &amp; Next.js Enthusiast</text>
+    <text class="sub" x="70" y="175">Full-Stack Developer </text>
   </g>
 
   <g class="fade" style="animation-delay:0.4s">
